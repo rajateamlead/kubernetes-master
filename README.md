@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kubernetes on AWS using Kops
 
 ### 1. Launch Linux EC2 instance in AWS (Kubernetes Client)
@@ -107,3 +108,6 @@ We can change numner of nodes and number of masters using following commands
   https://github.com/kubernetes/kops/blob/master/docs/terraform.md
 
 ```
+=======
+# kubernetes-master
+>>>>>>> 030544a78e13ac718660805e87bb9738e56cdf6a
